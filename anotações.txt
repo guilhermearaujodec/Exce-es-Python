@@ -1,0 +1,5 @@
+ANOTAÇÕES DE COMPUTACIONAL THINKING WITH PYTHON
+
+
+SITE COM OS TIPOS DE EXCEPTIONS:
+https://www.w3schools.com/python/python_ref_exceptions.asp
